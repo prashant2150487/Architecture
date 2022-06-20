@@ -1,0 +1,29 @@
+body {
+    background-color: #CBD6CB;
+}
+
+.center {
+    margin: auto;
+    width: 1000px;
+}
+
+.middle {
+    text-align: center;
+}
+
+.center-small {
+    margin: 0 auto;
+}
+
+.headng {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ml-10 {
+    margin-left: 25px;
+}
+
+.plr-10 {
+    margin-left: 10px;
+    padding-right: 10px;
+}
